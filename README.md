@@ -13,4 +13,4 @@ The script is used to detect the keyframes in a video
 ```
 python keyframe.py --source path/to/video [--Thres (required threshold between frames)]
 ```
- A higher threshold will mean that there should be more difference between the frames for them to be key. It will have values anywhere from 1000000 to 5000000
+ A higher threshold will mean that there should be more difference between the frames for them to be key. It may have values anywhere from 1000000 to 5000000
